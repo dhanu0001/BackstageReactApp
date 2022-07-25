@@ -1,0 +1,8 @@
+site_name: "new-app"
+site_description: "new-application"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

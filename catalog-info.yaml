@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "new-app"
+  description: "new-application"
+  annotations:
+    github.com/project-slug: dhanu0001/BackstageReactApp
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "dhanu0001"
